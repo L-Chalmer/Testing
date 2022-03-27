@@ -1,2 +1,6 @@
+make:
+	g++ library.cpp -o library
+
 run:
-	g++ class.cp -o class
+	g++ class.cpp -o class
+	./class
